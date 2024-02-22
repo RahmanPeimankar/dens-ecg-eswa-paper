@@ -6,7 +6,7 @@ This repository contains the implementation for the above-mentioned paper publis
 
 In order to use run the Jyputer notebooks, you need to request the "df_merged.h5" from the first author. 
 
-By executing the "main.ipynb" file, you can reproduce the results presented in the manuscript.
+By executing the "main.ipynb" file, you can reproduce the results presented in the paper.
 
 :point_right: This model has been developed by Abdolrahman Peimankar at the Technical University of Denmark (DTU). 
 
